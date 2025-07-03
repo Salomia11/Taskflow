@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64194742038",
+    "project_id": "fire-setup-55e8c",
+    "storage_bucket": "fire-setup-55e8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64194742038:android:874202460ffff842657237",
+        "android_client_info": {
+          "package_name": "com.example.taskflows"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ydQF9qROV5pTCWBz33Df0Q_LkXrZ2xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
